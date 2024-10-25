@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,Department,Salary,HireDate,City,Bonus
+101,Alice Smith,28,HR,50000,7/1/2018,New York,2000
+102,Bob Johnson,34,IT,120000,1/15/2017,San Francisco,5000
+103,Charlie Lee,26,Marketing,75000,3/22/2020,Chicago,
+104,David Clark,42,Finance,150000,10/1/2016,New York,10000
+105,Emma Davis,30,IT,110000,9/10/2019,Seattle,8000
+106,Frank Brown,29,Marketing,55000,5/12/2021,Chicago,
+107,Gina White,38,HR,70000,2/5/2016,New York,3000
+108,Hank Green,45,Finance,130000,8/25/2015,Los Angeles,12000
+109,Irene Black,32,IT,95000,11/7/2019,San Francisco,7000
+110,Jack Wilson,27,Marketing,65000,6/22/2018,Chicago,4000
